@@ -4,13 +4,11 @@
 <p>
 📃 <a href="">ArXiv Paper</a>
   •
-🤗 <a href="">HuggingFace Model</a> 
-  •
 📚 <a href="">Dataset</a>
 </p>
 
 
-⭐ **We will release the datasets, models, templates, and codes within a month. Thanks for your attention!**
+⭐ **We will release the templates, and codes within a month. Thanks for your attention!**
 
 ## Introduction
 Addressing the discrepancies between predictions and actual outcomes often aids individuals in expanding their thought processes and engaging in reflection, thereby facilitating reasoning in the correct direction.
