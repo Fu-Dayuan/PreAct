@@ -2,7 +2,7 @@
 ## PreAct: Predicting Future in ReAct Enhances Agent’s Planning Ability</h2>
 
 <p>
-📃 <a href="">ArXiv Paper</a>
+📃 <a href="https://arxiv.org/abs/2402.11534">ArXiv Paper</a>
   •
 📚 <a href="">Dataset</a>
 </p>
