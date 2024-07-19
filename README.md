@@ -19,13 +19,10 @@ Our code will be released soon!
 
 ## Citation
 Please kindly cite our paper if it helps your research:
-```bibtex
-@misc{fu2024preact,
-      title={PreAct: Predicting Future in ReAct Enhances Agent's Planning Ability}, 
-      author={Dayuan Fu and Jianzhao Huang and Siyuan Lu and Guanting Dong and Yejie Wang and Keqing He and Weiran Xu},
-      year={2024},
-      eprint={2402.11534},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{fu2024preact,
+  title={PreAct: Predicting Future in ReAct Enhances Agent's Planning Ability},
+  author={Fu, Dayuan and Huang, Jianzhao and Lu, Siyuan and Dong, Guanting and Wang, Yejie and He, Keqing and Xu, Weiran},
+  journal={arXiv preprint arXiv:2402.11534},
+  year={2024}
 }
 ```
