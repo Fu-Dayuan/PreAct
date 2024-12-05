@@ -18,7 +18,7 @@ The variances in single-step reasoning between PreAct and ReAct indicate that Pr
 We use [LanguageAgentTreeSearch](https://github.com/lapisrocks/LanguageAgentTreeSearch) to run the HotpotQA task. We release the code for inference. You can inference PreAct+TOT with the following commands:
 
 ```bash 
-  cd PreAct_HotpotQA_TOT/hotpot
+  cd LanguageAgentTreeSearch/hotpot
   bash tot.sh
 ```
 
