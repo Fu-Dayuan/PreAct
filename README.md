@@ -1,5 +1,5 @@
 
-## PreAct: Prediction Enhances Agent's Planning Ability</h2>
+ # <div align="center"> PreAct: Prediction Enhances Agent's Planning Ability<div>
 
 
 <div align="center">
@@ -9,13 +9,11 @@
 </div>
 
 ## 💥 News
-- [10/2024] 🔥 Our paper has been accepted by **COLING 2025**. 
+- [12/2024] 🔥 Our paper has been accepted by **COLING 2025**. 
 
-- [10/2024] 🔥 We release the code for inference HotpotQA task. You can inference PreAct+TOT here. 
+- [12/2024] 🔥 We release the code for inference HotpotQA task. You can inference PreAct+TOT here. 
 
-- [10/2024] 🔥 We released our instruction-following auto-evaluation benchmark named ***FollowRAG***. Please follow [outlines](#FollowRAG) for evaluation.
-
-- [10/2024] 🔥 We introduced ***PreAct***. Check out the [paper](https://arxiv.org/pdf/2402.11534). 
+- [12/2024] 🔥 We introduced ***PreAct***. Check out the [paper](https://arxiv.org/pdf/2402.11534). 
 
 ---
 
