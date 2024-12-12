@@ -1,12 +1,25 @@
 
 ## PreAct: Prediction Enhances Agent's Planning Ability</h2>
 
-<p>
-📃 <a href="https://arxiv.org/abs/2402.11534">ArXiv Paper</a>
-</p>
+
+<div align="center">
+<a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue"></a>
+  <a href="https://arxiv.org/pdf/2402.11534" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
+  <a href="https://github.com/dongguanting/IF-RAG/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green"></a>
+</div>
+
+## 💥 News
+- [10/2024] 🔥 Our paper has been accepted by **COLING 2025**. 
+
+- [10/2024] 🔥 We release the code for inference HotpotQA task. You can inference PreAct+TOT here. 
+
+- [10/2024] 🔥 We released our instruction-following auto-evaluation benchmark named ***FollowRAG***. Please follow [outlines](#FollowRAG) for evaluation.
+
+- [10/2024] 🔥 We introduced ***PreAct***. Check out the [paper](https://arxiv.org/pdf/2402.11534). 
+
+---
 
 
-<!-- ⭐ **We will release the templates, and codes after blind review. Thanks for your attention!** -->
 
 ## Introduction
 Addressing the disparity between forecasts and actual results can enable individuals to expand their thought processes and stimulate self-reflection, thus promoting accurate planning.
@@ -28,9 +41,23 @@ We use [LanguageAgentTreeSearch](https://github.com/lapisrocks/LanguageAgentTree
 Please kindly cite our paper if it helps your research:
 ```bibtex
 @article{fu2024preact,
-  title={PreAct: Predicting Future in ReAct Enhances Agent's Planning Ability},
-  author={Fu, Dayuan and Huang, Jianzhao and Lu, Siyuan and Dong, Guanting and Wang, Yejie and He, Keqing and Xu, Weiran},
-  journal={arXiv preprint arXiv:2402.11534},
-  year={2024}
+  author       = {Dayuan Fu and
+                  Jianzhao Huang and
+                  Siyuan Lu and
+                  Guanting Dong and
+                  Yejie Wang and
+                  Keqing He and
+                  Weiran Xu},
+  title        = {PreAct: Predicting Future in ReAct Enhances Agent's Planning Ability},
+  journal      = {CoRR},
+  volume       = {abs/2402.11534},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2402.11534},
+  doi          = {10.48550/ARXIV.2402.11534},
+  eprinttype    = {arXiv},
+  eprint       = {2402.11534},
+  timestamp    = {Wed, 19 Jun 2024 17:14:13 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2402-11534.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
